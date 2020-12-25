@@ -1,1 +1,50 @@
+---
+personal_info:
+  full_name: John Doe
+  contact:
+    email: johndoe@gmail.com
+    phone: 9916936657
+  social:
+    linkedin: linkedin.com/in/johndoe
+    github: github.com/johndoe
+  location:
+    state: Karnataka
+    city: Bengaluru
+    zip: 560016
+    country: India
 
+work_experience:
+  - company: Hewlett Packard
+    start: mm/dd//yyyy
+    end: present
+    location:
+      city: Bangalore
+      state: West Bengal
+      country: India
+    project_short_decription: An operating system deployment solution that simplifies deployment at datacenters at scale.
+    responsbilites:
+      - "Contributed to feature X that gave x% value or increased unit X% to Y%"
+      - "Similar items you go here"
+      - "Also mention dev tools if you have developed"
+    recognition:
+      - "Add if you have been recognized for any of your contributions"
+    techology_used:
+      - "Java, Postgres, Javascript, Jquery, HTML, python, shell scripts, bash"
+
+skills: "Java, C, C++,"
+
+education:
+  degree: Bachelors
+  major: Computer Science and Engineering  
+  start_year: 2011
+  end_year: 2015
+  university: West Bengal University of Technology
+  location:
+    city: Kolkata
+    state: West Bengal
+    country: India
+  score: 8.48
+
+  
+
+  
