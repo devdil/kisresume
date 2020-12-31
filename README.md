@@ -1,6 +1,6 @@
 # kissresume (Keep It Simple and Sexy Resume)
 
-A tool to generate ATS friendly resume given a yaml file. It enforces strict grammar to ensure you have a great resume. From my experience, as humans we are inclined to structural information thats easier to comprehend and read. With the competitive world, the mission is to have a recruiter or ATS friendly resume to get past the screening step. With strict grammar that this tool enforces I bet you will have a great polished and neat resume, I wish you land your dream job!
+A tool to generate ATS friendly resume given a yaml file. It enforces strict grammar to ensure you have a great resume. From my experience, as humans we are inclined to structural information thats easier to comprehend and read. With the competitive world, the mission is to have a recruiter or ATS friendly resume to get past the screening step. With strict grammar that this tool enforces I bet you will have a simple and sexy resume, I wish you land your dream job!
 
 # Usage
 
