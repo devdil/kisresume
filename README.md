@@ -4,4 +4,4 @@ A tool to generate ATS friendly resume given a yaml file. It enforces strict gra
 
 # Usage
 
-You have two options of creating the resume either by using curl via command line or by using the user interface at tools.diljitpr.net/kisdresume
+You have two options of creating the resume either by using curl via command line or by using the user interface at tools.diljitpr.net/kissresume
